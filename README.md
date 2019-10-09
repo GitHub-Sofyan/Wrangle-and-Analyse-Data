@@ -5,6 +5,7 @@ Wrangle-and-Analyse-Data
 Wrangle Report
 By: Sofyan Sahrom
 Date: 8th February 2018
+
 Project Mission: Show proficiency in data wrangling and analyses through 3 tasks: 1) Gathering Data, 2) Assessing Data and 3) Cleaning Data on a Twitter archive (WeRateDogs).
 
 
